@@ -10,6 +10,6 @@
 namespace Nahodka {
     
     
-    public partial class _Default {
+    public partial class InfoBox {
     }
 }

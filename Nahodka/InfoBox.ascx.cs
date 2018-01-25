@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 
 namespace Nahodka
 {
-    public partial class Contact : Page
+    public partial class InfoBox : System.Web.UI.UserControl
     {
         protected void Page_Load(object sender, EventArgs e)
         {

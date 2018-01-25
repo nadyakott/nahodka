@@ -10,15 +10,24 @@
 namespace Nahodka {
     
     
-    public partial class SiteMaster {
+    public partial class CompareMessages1 {
         
         /// <summary>
-        /// MainContent элемент управления.
+        /// btn_compare элемент управления.
         /// </summary>
         /// <remarks>
         /// Автоматически создаваемое поле.
         /// Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.ContentPlaceHolder MainContent;
+        protected global::System.Web.UI.WebControls.Button btn_compare;
+        
+        /// <summary>
+        /// lbl_comparePerc элемент управления.
+        /// </summary>
+        /// <remarks>
+        /// Автоматически создаваемое поле.
+        /// Для изменения переместите объявление поля из файла конструктора в файл кода программной части.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lbl_comparePerc;
     }
 }
